@@ -1,1 +1,1 @@
-# pfmSnippets
+# Сниппеты для java
